@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @vinihill
-- 👀 I’m interested in tech, books, animes, cartoons, history, astronomy, strategy and rpg games, astronomy.
+- 👀 I’m interested in tech, innovation, books, animes, cartoons, history, astronomy, strategy and rpg games...
 - 🌱 I’m currently learning everything i find interesting here and there.
 - 💞️ I’m looking to collaborate on any good idea that get me motivated to do more.
-- 📫 How to reach me anywhere, look out for vinihill online.
+- 📫 How to reach me anywhere, look out for vinihill.
 
 <!---
 vinihill/vinihill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
